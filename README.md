@@ -2,8 +2,8 @@
 neguseatama
 
 ## Overview
-Japanese Calendar
-Pythonによる西暦の和暦変換
+* Pythonによる西暦の和暦変換
+* Japanese Calendar
 
 ## Description
 Jupyter Notebookで動作を確認しました。
