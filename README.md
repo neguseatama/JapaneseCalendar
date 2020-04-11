@@ -17,6 +17,7 @@
 * 現在は小学生だから、対応できることが限られます。
 
 ## Licence
+* neguse_atama
 * [寝癖頭の解法](https://neguse-atama.hatenablog.com)
 
 ## Author
