@@ -1,5 +1,5 @@
 ## Name
-* Iwasaki Kai
+* Kai Iwasaki
 
 ## Overview
 * Pythonによる西暦の和暦変換
