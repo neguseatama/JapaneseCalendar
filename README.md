@@ -1,5 +1,5 @@
 ## Name
-* neguseatama
+* Iwasaki Kai
 
 ## Overview
 * Pythonによる西暦の和暦変換
