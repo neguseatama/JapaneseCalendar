@@ -10,7 +10,7 @@ new_m = month
 new_d = day
 # 月、日付を変数にする
 
-if int(m) < 10:
+if int(month) < 10:
     month = str(month)
     new_m = "0" + month
 # 1桁の月に0を加えて2桁にする
