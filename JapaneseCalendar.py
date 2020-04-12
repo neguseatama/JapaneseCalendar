@@ -24,7 +24,6 @@ if date >= 20190501:
     if year == 1:
         year = "元"
     print("令和{}年{}月{}日".format(year, month, day))
-
   
 elif date >= 19890108:
     year = int(year) - 1988
