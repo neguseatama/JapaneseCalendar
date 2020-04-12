@@ -3,7 +3,6 @@
 
 ## Overview
 * Pythonによる西暦の和暦変換
-* Japanese Calendar
 
 ## Description
 * Jupyter Notebookで動作を確認しました。
